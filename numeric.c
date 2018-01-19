@@ -16,8 +16,8 @@ void main()
          flag++;
     }
     if(flag==0)
-        printf("\nThe string has no numbers");
+        printf("\nThe string has no numbers yes");
     if(flag>0)
-        printf("The string has %d numbers",flag);
+        printf("The string has %d numbers no",flag);
     getch();
 }
