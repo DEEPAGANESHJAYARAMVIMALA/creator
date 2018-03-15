@@ -13,7 +13,7 @@ int main()
         n /= 10;
     }
 
-    printf("Reversed Number = %d", revnum);
+    printf("lexographical order = %d", revnum);
 
     return 0;
 }
